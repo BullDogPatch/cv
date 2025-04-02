@@ -21,7 +21,7 @@ A highly motivated junior front-end developer with hands-on experience in modern
 
 **✅ What I Did:** Built a modern, interactive portfolio showcasing my projects with smooth animations.  
 **✅ GitHub:** [Link](https://github.com/BullDogPatch/portfolio-new)  
-**✅ Live Demo:** [Portfolio Site](portfolio-new-iota-three.vercel.app)
+**✅ Live Demo:** [Portfolio Site](https://portfolio-new-iota-three.vercel.app)
 
 ## 🛍️ React E-Commerce App
 
@@ -29,7 +29,7 @@ A highly motivated junior front-end developer with hands-on experience in modern
 
 **✅ What I Did:** Developed a product listing page with search, filters, and cart functionality using DummyJSON API.  
 **✅ GitHub:** [Project Link](https://github.com/BullDogPatch/product-shop)  
-**✅ Live Demo:** [demo](product-shop-mu.vercel.app)
+**✅ Live Demo:** [demo](https://product-shop-mu.vercel.app)
 
 ## Education & Training
 
