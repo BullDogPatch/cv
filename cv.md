@@ -28,7 +28,8 @@ A highly motivated junior front-end developer with hands-on experience in modern
 ### ✅ Tech: React, Next.js, Supabase, Tailwind CSS and shadCN
 
 **✅ What I Did:** Developed a product listing page with search, filters, and cart functionality using DummyJSON API.  
-**✅**GitHub:\*\* [demo](https://github.com/BullDogPatch/product-shop)
+**✅ GitHub:** [Project Link](https://github.com/BullDogPatch/product-shop)  
+**✅ Live Demo:** [demo](product-shop-mu.vercel.app)
 
 ## Education & Training
 
@@ -40,11 +41,10 @@ A highly motivated junior front-end developer with hands-on experience in modern
 
 ## Work Experience & Transferable Skills
 
-(Highlight any previous experience that demonstrates relevant skills such as problem-solving, teamwork, or adaptability.)
+- Collaborating as a team
+- Problem solving
 
 ### Previous Role / Career Break (Years: 2017–2024)
-
-#### Career Break & Transition to Software Development (201X–202X)
 
 - Retrained as a front-end developer through a structured learning path, completing projects in React & Next.js.
 - Self-taught problem-solving & debugging by working on real-world coding challenges and building full-stack applications.
