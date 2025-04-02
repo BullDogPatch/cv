@@ -20,21 +20,8 @@ A highly motivated junior front-end developer with hands-on experience in modern
 ### ✅ Tech: Next.js, Tailwind CSS, Framer Motion
 
 **✅ What I Did:** Built a modern, interactive portfolio showcasing my projects with smooth animations.  
-**✅ GitHub:** [[Project Link](https://github.com/BullDogPatch/portfolio-new)]  
+**✅ GitHub:** [Link](https://github.com/BullDogPatch/portfolio-new)
 **✅ Live Demo:** [Portfolio Site](portfolio-new-iota-three.vercel.app)
-
-### React E-Commerce App
-
-- Built a functional e-commerce store using React and Next.js.
-- Implemented a shopping cart, product filtering, and user authentication.
-- Used SQL for database management and Express for backend services.
-- **GitHub:** [[Project Link](https://github.com/BullDogPatch/portfolio-new)]
-
-### ✅ Tech: Next.js, Tailwind CSS, Framer Motion
-
-**✅ What I Did:** Built a modern, interactive portfolio showcasing my projects with smooth animations.  
-**✅**GitHub [[link](https://github.com/BullDogPatch/portfolio-new)]  
-**✅ Live Demo:** [Portfolio Site](#)
 
 ## 🛍️ React E-Commerce App
 
