@@ -1,11 +1,11 @@
 # Craig Clayton
 
-craig__clayton@outlook.com
-| 07427672893 | [LinkedIn](https://www.linkedin.com/in/craig-clayton-87a155196/) | [GitHub Profile](https://github.com/bulldogpatch)
+craig__clayton@outlook.com  
+07427672893 | [LinkedIn](https://www.linkedin.com/in/craig-clayton-87a155196/) | [GitHub Profile](https://github.com/bulldogpatch)
 
 ## Personal Summary
 
-A highly motivated junior front-end developer with hands-on experience in modern web technologies. Recently completed a Skills Bootcamp in Software Development, building responsive and user-friendly applications using React, Next.js, Supabase and SQL. Passionate about problem-solving and eager to apply my skills in a dynamic development team.
+A highly motivated junior front-end developer with hands-on experience in modern web technologies. Recently completed a Skills Bootcamp in Software Development, building responsive and user-friendly applications using React, Next.js, Supabase, and SQL. Passionate about problem-solving and eager to apply my skills in a dynamic development team.
 
 ## Technical Skills
 
@@ -17,19 +17,17 @@ A highly motivated junior front-end developer with hands-on experience in modern
 
 ### Responsive Portfolio Website
 
-### ✅ Tech: Next.js, Tailwind CSS, Framer Motion
+- **✅ Tech:** Next.js, Tailwind CSS, Framer Motion
+- **✅ What I Did:** Built a modern, interactive portfolio showcasing my projects with smooth animations.
+- **✅ GitHub:** [Project Link](https://github.com/BullDogPatch/portfolio-new)
+- **✅ Live Demo:** [Portfolio Site](https://portfolio-new-iota-three.vercel.app)
 
-**✅ What I Did:** Built a modern, interactive portfolio showcasing my projects with smooth animations.  
-**✅ GitHub:** [Link](https://github.com/BullDogPatch/portfolio-new)  
-**✅ Live Demo:** [Portfolio Site](https://portfolio-new-iota-three.vercel.app)
+### 🛍️ React E-Commerce App
 
-## 🛍️ React E-Commerce App
-
-### ✅ Tech: React, Next.js, Supabase, Tailwind CSS and shadCN
-
-**✅ What I Did:** Developed a product listing page with search, filters, and cart functionality using DummyJSON API.  
-**✅ GitHub:** [Project Link](https://github.com/BullDogPatch/product-shop)  
-**✅ Live Demo:** [demo](https://product-shop-mu.vercel.app)
+- **✅ Tech:** React, Next.js, Supabase, Tailwind CSS, shadCN
+- **✅ What I Did:** Developed a product listing page with search, filters, and cart functionality using DummyJSON API.
+- **✅ GitHub:** [Project Link](https://github.com/BullDogPatch/product-shop)
+- **✅ Live Demo:** [Demo](https://product-shop-mu.vercel.app)
 
 ## Education & Training
 
@@ -42,9 +40,9 @@ A highly motivated junior front-end developer with hands-on experience in modern
 ## Work Experience & Transferable Skills
 
 - Collaborating as a team
-- Problem solving
+- Problem-solving
 
-### Previous Role / Career Break (Years: 2017–2024)
+### Previous Role / Career Break (2017–2024)
 
 - Retrained as a front-end developer through a structured learning path, completing projects in React & Next.js.
 - Self-taught problem-solving & debugging by working on real-world coding challenges and building full-stack applications.
@@ -52,10 +50,12 @@ A highly motivated junior front-end developer with hands-on experience in modern
 
 ## Certifications & Additional Learning
 
-- Skills Bootcamp in Software Development – TechEducators (2025)
-- JavaScript Algorithms and Data Structures – FreeCodeCamp
+- **Skills Bootcamp in Software Development** – TechEducators (2025)
+- **JavaScript Algorithms and Data Structures** – FreeCodeCamp
 
 ## Additional Information
 
-- Open to remote and hybrid roles. Enthusiastic about front-end development, continuous learning, and contributing to real-world projects. Actively expanding knowledge in performance optimization and UI/UX best practices.
+- Open to remote and hybrid roles.
+- Enthusiastic about front-end development, continuous learning, and contributing to real-world projects.
+- Actively expanding knowledge in performance optimization and UI/UX best practices.
 - Passionate about learning and contributing to open-source projects.

@@ -1,0 +1,18 @@
+Craig Clayton
+craig__clayton@outlook.com | 07427672893 | LinkedIn (https://www.linkedin.com/in/craig-clayton-87a155196/) | GitHub
+Profile (https://github.com/bulldogpatch)
+Personal Summary
+A highly motivated junior front-end developer with hands-on experience in modern web technologies. Recently completed
+a Skills Bootcamp in Software Development, building responsive and user-friendly applications using React, Next.js,
+Supabase and SQL. Passionate about problem-solving and eager to apply my skills in a dynamic development team.
+Technical Skills
+ Frontend: JavaScript (ES6+), React, Next.js, HTML, CSS (Tailwind, Flexbox, Grid)
+ Backend: Node.js, Express, SQL (PostgreSQL, Supabase)
+ Tools & DevOps: Git, GitHub, REST APIs, Agile, Jest
+Projects & Portfolio
+Responsive Portfolio Website
+ Tech: Next.js, Tailwind CSS, Framer Motion
+ What I Did: Built a modern, interactive portfolio showcasing my projects with smooth animations.
+ GitHub: Link (https://github.com/BullDogPatch/portfolio-new)
+ Live Demo: Portfolio Site (portfolio-new-iota-three.vercel.app)
+ React E-Comm
