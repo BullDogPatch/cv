@@ -29,6 +29,13 @@ A highly motivated junior front-end developer with hands-on experience in modern
 - **✅ GitHub:** [Project Link](https://github.com/BullDogPatch/product-shop)
 - **✅ Live Demo:** [Demo](https://product-shop-mu.vercel.app)
 
+### 💬 Socail Media App
+
+- **✅ Tech:** React, Supabase, Typescript and React-router Tailwind CSS
+- **✅ What I Did:** Developed a social media app with dynamic routes, comments section and authentication.
+- **✅ GitHub:** [Project Link](https://github.com/BullDogPatch/social.app)
+- **✅ Live Demo:** [Demo](https://social-app-neon-alpha.vercel.app)
+
 ## Education & Training
 
 ### Skills Bootcamp in Software Development (Completion: March 2025)
