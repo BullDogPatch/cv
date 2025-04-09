@@ -20,7 +20,7 @@ A highly motivated junior front-end developer with hands-on experience in modern
 - **✅ Tech:** Next.js, Tailwind CSS, Framer Motion
 - **✅ What I Did:** Built a modern, interactive portfolio showcasing my projects with smooth animations.
 - **✅ GitHub:** [Project Link](https://github.com/BullDogPatch/portfolio-new)
-- **✅ Live Demo:** [Portfolio Site](https://portfolio-new-iota-three.vercel.app)
+- **✅ Live Demo:** [Portfolio Site](https://craig-clayton.vercel.app)
 
 ### 🛍️ React E-Commerce App
 
